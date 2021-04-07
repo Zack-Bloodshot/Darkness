@@ -1,12 +1,15 @@
-# [Screenshotit_bot](https://tx.me/screenshotit_bot)
+# Darkness
 
-> Telegram Bot For Screenshot Generation.
+> Telegram Bot For Screenshot Generation forked from Animated-lamp
 
 ## Description
 
 An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@screenshotit_bot](https://tx.me/screenshotit_bot "Screenshot Generator Bot").
 
 ## Installation Guide
+
+## Heruko! 
+[Click here for Heruko](https://heroku.com/deploy?template=https://github.com/Zack-Bloodshot/Darkness) 
 
 ### Prerequisites
 
@@ -108,9 +111,11 @@ In bot settings.
 Contributions are welcome.
 
 ## Contact
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
+You can contact me [@DontKnowWhoRU](https://t.me/DontKnowWhoRU).
 
 ## Thanks
+Thanks to The original creater of the repo where i forked from! 
+
 Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
 
 Thanks to [Tulir Asokan](https://github.com/tulir "Tulir Asokan") for his [TgFileStream](https://github.com/tulir/tgfilestream "TgFileStream") Bot.
