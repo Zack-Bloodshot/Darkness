@@ -9,7 +9,7 @@ An attempt to implement the screenshot generation of telegram files without down
 ## Installation Guide
 
 ## Heruko! 
-[Click here for Heruko](https://heroku.com/deploy?template=https://github.com/Zack-Bloodshot/Darkness) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zack-Bloodshot/Darkness) 
 
 ### Prerequisites
 
